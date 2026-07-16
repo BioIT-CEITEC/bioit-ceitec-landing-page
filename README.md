@@ -27,4 +27,4 @@ The site follows the official CEITEC brand guidelines:
 
 ## Contact
 
-For questions about the website, contact [alireza.dantism@ceitec.muni.cz](mailto:alireza.dantism@ceitec.muni.cz).
+For questions about this page, contact [alireza.dantism@ceitec.muni.cz](mailto:alireza.dantism@ceitec.muni.cz).
