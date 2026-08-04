@@ -4,10 +4,6 @@ Official landing page for the **CEITEC Bioinformatics Core Facility (BioIT)** at
 
 Live site: [bioit.ceitec.eu](https://bioit.ceitec.eu)
 
-## About
-
-This is a fully static website built to present the BioIT core facility — its services, projects, publications, team, and community. It is part of the ELIXIR Czech Republic infrastructure.
-
 ## Deployment
 
 The site is hosted on **GitHub Pages** via the `gh-pages` branch.
